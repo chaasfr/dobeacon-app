@@ -22,6 +22,7 @@ before_script:
 script:
 - echo "Script stage"
 - steroids update
+- steroids connect
 after_success:
 - echo "After success stage"
 after_failure:
