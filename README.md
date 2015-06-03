@@ -18,3 +18,5 @@ See: https://muut.com/appgyver#!/steroids:bluetooth-low-energy-plugin
 ## Non-bower
 
 Not all javascript is available in bower yet. Copy the files from the nonbower_components to the bower_components folder.
+
+test travis
