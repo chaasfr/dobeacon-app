@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/chaasfr/dobeacon-app.svg?branch=master)](https://travis-ci.org/chaasfr/dobeacon-app)
+
 # App for DoBeacons
 
 An application for the DoBeacons, a device that is like an iBeacon, but can be plugged into a wall socket.
@@ -18,5 +20,3 @@ See: https://muut.com/appgyver#!/steroids:bluetooth-low-energy-plugin
 ## Non-bower
 
 Not all javascript is available in bower yet. Copy the files from the nonbower_components to the bower_components folder.
-
-test travis
